@@ -29,18 +29,7 @@ namespace pcn_box
         static void Main()
         {
 
-            
-            int ip1_1 = 31;
-            int ip1_2 = 28;
-            int ip1_3 = 247;
-            int ip1_4 = 207;
-            
-            int ip2_1 = 62;
-            int ip2_2 = 76;
-            int ip2_3 = 12;
-            int ip2_4 = 174;
-
-
+         
             int ip9_1 = 192;
             int ip9_2 = 168;
             int ip9_3 = 0;
